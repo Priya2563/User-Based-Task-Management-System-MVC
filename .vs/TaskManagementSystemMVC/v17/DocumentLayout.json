@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\views\\task\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:views\\task\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\models\\taskitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:models\\taskitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\views\\task\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:views\\task\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\migrations\\20260331101131_freshmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:migrations\\20260331101131_freshmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Migrations\\20260331095629_UserRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260331095629_UserRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\taskmanagementsystemmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:taskmanagementsystemmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\views\\task\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:views\\task\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|d:\\asp.net core mvc project\\taskmanagementsystemmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AC38E37-EC09-44F3-B9F3-38287B0C995D}|TaskManagementSystemMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T10:01:28.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Task\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Task\\List.cshtml",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Task\\List.cshtml",
+              "RelativeToolTip": "Views\\Task\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T10:25:38.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:10:16.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Task\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Task\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Task\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Task\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T16:15:26.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260331101131_FreshMigration.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Migrations\\20260331101131_FreshMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260331101131_FreshMigration.cs",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Migrations\\20260331101131_FreshMigration.cs",
+              "RelativeToolTip": "Migrations\\20260331101131_FreshMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:11:31.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T09:53:39.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:08:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260331095629_UserRelation.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Migrations\\20260331095629_UserRelation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260331095629_UserRelation.cs",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Migrations\\20260331095629_UserRelation.cs",
+              "RelativeToolTip": "Migrations\\20260331095629_UserRelation.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwHYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:56:30.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItems.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Models\\TaskItems.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItems.cs",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Models\\TaskItems.cs",
+              "RelativeToolTip": "Models\\TaskItems.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T09:43:18.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Task\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Task\\Create.cshtml",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Task\\Create.cshtml",
+              "RelativeToolTip": "Views\\Task\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T10:04:12.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T10:32:03.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Task\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Task\\Dashboard.cshtml",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Task\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Task\\Dashboard.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T11:29:41.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T09:06:22.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-30T09:44:21.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:06:22.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskManagementSystemMVC.csproj",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\TaskManagementSystemMVC.csproj",
+              "RelativeDocumentMoniker": "TaskManagementSystemMVC.csproj",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\TaskManagementSystemMVC.csproj",
+              "RelativeToolTip": "TaskManagementSystemMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-28T09:47:21.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T09:48:17.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Task\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Task\\Delete.cshtml",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\Views\\Task\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Task\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T10:50:44.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ASP.NET Core MVC Project\\TaskManagementSystemMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-28T09:50:47.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

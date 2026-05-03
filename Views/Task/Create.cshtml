@@ -1,0 +1,26 @@
+﻿@model TaskManagementSystemMVC.Models.TaskItems;
+
+<form method="post"> 
+    <label>Title</label>
+    <input asp-for="Title"/><br/>
+    <br/>
+    <label>Description</label>
+    <input asp-for="Description"/>
+    <br/> <br/>
+    <label>Due Date</label>
+    <input asp-for="DueDate"/> <br/> <br/>
+    <label>Status</label>
+   <select asp-for="Status">
+       <option>Pending</option>
+       <option>In Progress</option>
+       <option>Completed</option>
+   </select>
+    <br/> <br/>
+    <button type="submit"> Add TO List</button>
+</form>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
